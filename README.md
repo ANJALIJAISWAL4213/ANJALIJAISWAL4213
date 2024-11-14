@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ANJALI JAISWAL</h1>
-<h3 align="center">A web-developer from India</h3>
+<h1 align="center">Hi 👋, I'm ANJALI Kalwar</h1>
+<h3 align="center">A full stack web-developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript and react**
+- 🌱 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANJALIJAISWAL4213](https://github.com/ANJALIJAISWAL4213)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP**
+- 💬
 
 - 📫 How to reach me **iit2023260@gmail.com**
 
