@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANJALI Kalwar</h1>
+<h1 align="center">Hi 👋, I'm ANJALI KaALWAR</h1>
 <h3 align="center">A full stack web-developer from India</h3>
 
 - 🌱 
